@@ -17,7 +17,6 @@ def ngram(data, mode):
             tmp = split_data[i] + split_data[i + 1]
             print(tmp)
 
-
 # Start
 data = "I am an NLPer"
 
